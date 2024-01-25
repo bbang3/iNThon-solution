@@ -17,8 +17,8 @@
 |File name|Approach|
 |:-|:-|
 |inthon_baseline.ipynb|기본 베이스라인|
-|solution_kobart.ipynb|PLM Fine-tuning|
-|solution_prompt_engineering.ipynb|LLM Prompt engineering|
+|solution_prompt_engineering.ipynb|Approach 1|
+|solution_kobart.ipynb|Approach 2|
 
 # Solution
 ## EDA
