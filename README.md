@@ -1,6 +1,13 @@
 # iNThon-solution
 2023 고려대학교 정보대학 데이터톤 iNThon에서 2위(은상)를 기록한 코드입니다.
 
+## Team
+| 팀원                            | 역할                                       |
+| ----------------------------- | ---------------------------------------- |
+| [황상민](https://github.com/bbang3)*      | Approach 1 |
+| [김민영](https://github.com/EuroMinyoung186)     | Approach 2 |
+| 유민성                           | EDA, Data engineering |
+
 # Dataset
 ### Korean CommonGen
 
