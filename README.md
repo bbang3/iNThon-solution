@@ -4,8 +4,8 @@
 ## Team
 | 팀원                            | 역할                                       |
 | ----------------------------- | ---------------------------------------- |
-| [황상민](https://github.com/bbang3)*      | Approach 1 |
-| [김민영](https://github.com/EuroMinyoung186)     | Approach 2 |
+| [황상민](https://github.com/bbang3)*      | Approach 2 |
+| [김민영](https://github.com/EuroMinyoung186)     | Approach 1 |
 | 유민성                           | EDA, Data engineering |
 
 # Dataset
